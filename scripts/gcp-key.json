@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "news-summary-project-462913",
-  "private_key_id": "415c7cdac465f89798498c81bb043708a08644e3",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDjrQLoOHnZJBP1\nnU4HbjzTX6215Md/0hI7XN1S3DLvl9PyK6Ld85Pd56mMHPNY6L8SH8LO6d3TePRQ\nmnOY7sL2lI50YhZbNIqJaw5NRGW7KxkXMfSXPiXsw0FINKDyQMX72meT2C9te2E/\nsY5vI4y8PLZpr/QNY1eFjNgbmVFSGOAfF3+vMW4GvwgpHXG2jvDVSOAj/pvxfHuR\n5DM2ZsnIWI6iUSN9TU0zBnB9YOsSGiU9T2MFC+tgQ5g7XdwHBxuqJ6XTqYDQSuGW\n0EIO1ugyU5ZRK1bfEWR/Y6sYuW6U/APebBnBvIHrZY7c2NBRLUJHyOP/znKAhX4F\nhJU3fCnhAgMBAAECggEAAxZ6xnJ++I/G3jBoJAKokYdSgE0zhXYbEtyzZbx1y7kS\nl04PMz+/9CUAWtWeWUjYJTidYu1aDv8CH+u7AJ/QW27FWypkujpFXLrBIrwi6Ghx\nD9b4xb+tMlUC7XtFPt6GW4rpQmCOuByRw5Q2uybPcagdzeN52wqgtRTQGNkPTh6L\nXLnsqCUrTxwfb7giPFfyvIiy+oBDhy67+PS5egs/ufOD9kdXpFhu8o678zTLcYLt\nhmmTMUV+3ConJ+BOoL2q1PfbGeo7joH/cUulhaOLTriiwVZNfGSZ5p4KrJNmMpVg\nQ28fyyRW9ef276e7JTg60MDzENZvWwYJit3aIzzmqQKBgQD6WBk28VXNnIZpPTTc\nt3zcHSJAuAOQVww1S0W5OZ6LdyM/Iwzj1Z0FPVK/g+KTwy9RrX4cd1UAti3QeqFq\nc3oUUwpMiwAOc4NCuwtNWsw3BqCsSeB2L+uko+clg2vjH05Zm9gznJQHG876Fk3Z\nCjO9oyLzgpu0rd7SqWiUfjAIFQKBgQDo0c6y53qHnO6WOv9M5wQjE86hMDHzzyqT\n14gHzpYZM4VO+vqJ9STLx1Oil0HEI49GMOMBql28ujXZmgIkkNNhTpBkV6/Kkhhs\ng81cZ1BcIQKzsmgRA8y3GxtgM/rOC3l7XinwV1S1fuquCeQRpST/rfsBNRj0zFh0\nFokQfaqhnQKBgDXxye0m7+BQfD4tLDjraQJdXMYpYMs3lq/dOncBTYKr93JhcSOf\nIijA4BXYq3g/tPCau/QSWsS+fPzRj/rKS2IZyrxXr3lttrkoaPUQPbUVvoWhnbaZ\n+OMPVn2k5hiY5F82z82/Tb6CZYVKTRgZtLCGeL+UQ00ZskweqSRmVJ9JAoGAZbCm\nOKw0b6FS8JlKQ3uv6eZP3UWgu94jubltOAO6ub0wH+QtpC5H6R3h4OVyG0pw3Paj\nYGnaUYF/3dCP2QrM2PaoyLsoFDGlq1gSTabuiZ79gCGPpMblFqEnXui1RmPqpsDl\nTo3GeRO7S1MUo8RfGbITLV7UzK+ofuQM8AADlF0CgYEAijnEt4l4rX7fM39TOccK\nxiIC6RLrEFEK4QBOzvvvoZ3Qo/DxKef4NZNZG1l5ZUoFFx2NfMdrGA3JWsT7DIxo\n8d74Hju205cAkkmwoltpPn5LdZIOlgSOzZUQQs9Wj6/blOUyv+klrZoQmCI/v+KF\nb0J2tEs/ww3yfJpCnxa2hxI=\n-----END PRIVATE KEY-----\n",
-  "client_email": "gke-deployer@news-summary-project-462913.iam.gserviceaccount.com",
-  "client_id": "116838514940745089491",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gke-deployer%40news-summary-project-462913.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+Your GCP_SA Key Here
