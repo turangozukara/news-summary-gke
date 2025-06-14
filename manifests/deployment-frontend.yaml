@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: news-frontend
-          image: us-central1-docker.pkg.dev/news-summary-project-461209/news-app/news-frontend:8
+          image: us-central1-docker.pkg.dev/news-summary-project-462913/news-app/news-frontend:8
           imagePullPolicy: Always
           ports:
             - containerPort: 80
