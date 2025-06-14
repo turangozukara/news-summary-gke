@@ -1,1 +1,13 @@
-Your Key Here
+{
+  "type": "service_account",
+  "project_id": "news-summary-project-462913",
+  "private_key_id": "18cab594163752eff4adcd337e38f4203bf7d4f1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDRp2CZngnqtmkg\n+Y/JW28zWa6xJ7TG08Iar3bUrn0BeS+83Vd6kLarIxm1nyT2yN/lwN8ED7XbkDgd\ns0VAmgmXfpBAWnWXuuCf0hCLzdzpcmVaS3LSsy/EC99VIbNlaf2OFZ2foN2k72qO\nmKZKXp/CJ9Z6xaKJClGcIl24yh2GgLoM7pX0DYD65+TZGSxNyHzG4QSnVaSOtdP6\nkvrANZCZR5ZOEb8gpcbhVRUrkNDxhiC8buajyIqmaUJrhtC/wBq0fxWO/laTHoh9\nvYgwFYxV9aZUTf5iZg7wmvH6uJrAe1sqsQSMN/tkNMqj1v2vYJWC/6Gaxq4NeQyB\nj4A1eT2VAgMBAAECggEAEuWGNHJlLG2ijiFQT3LZVASKVVdh2OXvQd581HChvcdB\ngUFmCBsRC93PDGq6ty+l1pyKvV/5IUAffrXQ0SDRKoFy2QoOPU3Pvzf8280DU1tH\nPVs9jzYtYPs89vxhogtqmirimSezspENxqqFmoBq3+IdV9WGb9mpP2xtjCFThfLc\ni72LPi2gkbpxUi6lTk7DawZ3Roe7Beh6VfKFxAVmWHXfzb2fC94LCITJAfFCZd0H\nHzYeNIvxtjPPEkNGK8eadOse8vLfuJmqAZXvBtxqp6Fu9WEeZ6mbSl1rRXgANFSc\nmubL6d/O8TOyUKS+5nAIWqtxqyEr3WQYBSbkT6sHZQKBgQDtVjx4HTyK+8iMIclH\nEJMa9mMrkdGkzMXEASU9YyWJPezdgnsLJOoNp7pJBd0lC78KB5bwTG8aFtGOzjyk\nAa4w5HD8sa3173/Hi5wRtZmqFzOm2F9i7l7bSjYhbiEkJTc08N+xaTeAYrvFA6O2\nraoo6oT8g91v1gOh/Ej6phaw4wKBgQDiI9yAk3lXcwJDq3tt7jMY13le//nmHexp\nUdhdWGsRHTKUO/13uMWFtvJ92LikATFEuLC5E0IcyAo7saTR5x8I3R5Eoh8SnATr\nXQF+8DcVVs6KZE8ssJJG2aHk7FB9ORG/4bF6od2OxILhd4C+LeuyNcNPCbMoLSVa\nK99FAUN5JwKBgQCRZ07eq9LGt2DzcVOWBTKKxz6Ul96fn5Dd93GwPUjm3xh50RG/\nDxuRyBuZ10zYAG1HIMU5bSp4CljSq8l9FUZ5z8rlFZolXVikkQTJ2L9O9K4BXvh5\nbN6SbNHjA0ysj1xWQ+hYEcUeE99D4WnwZk8kiCF3bvZAKRbKq/yuCwlFzwKBgG+u\nYkGlk3GavO2KjOSXlOiZ0bkXFeWNtam13/MJrabAErCeh+lOeU42Mb/w/g8Q/7H+\nvFhKqIXqTRN6Afof+HW6Li6bGllocA2E2y5DmBCT1GEIdQmPEk6nQIr8IiwVuSxY\nW/xCYFcXucN77zr9Fr/mSVSJZ89ZrG7B5/v+ScJVAoGALQIY5vzOVelDvjwH736a\njT0STZKsUdRRJ9lr7d2nJN0fbwSC8whsxz9V+t71jz+Bb3ko7iIw65wvEog2RyN1\nUqil1kNNUR3s+4zYtWixqYkL9OeSRi0uSufdNmKZ0fhUH5iG8znYcsICPJCilvwI\nJ7niz8eF1HGeHjJvzOBfmzY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gke-deployer@news-summary-project-462913.iam.gserviceaccount.com",
+  "client_id": "115123656963818167020",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gke-deployer%40news-summary-project-462913.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
